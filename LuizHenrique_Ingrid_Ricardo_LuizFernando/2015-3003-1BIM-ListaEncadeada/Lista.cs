@@ -91,8 +91,10 @@ namespace _2015_3003_1BIM_ListaEncadeada
             while (current != null)
             {
                 Debug.WriteLine(current.AsString);
-                current = current.Proximo;
-            } 
+                current = current.Proximo;                
+            }
+
+            Debug.WriteLine("_____________________");
         }
     }
 }

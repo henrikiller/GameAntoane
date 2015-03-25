@@ -33,6 +33,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.OrdenarPeloValor = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -83,11 +84,22 @@
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 4;
             // 
+            // OrdenarPeloValor
+            // 
+            this.OrdenarPeloValor.Location = new System.Drawing.Point(271, 109);
+            this.OrdenarPeloValor.Name = "OrdenarPeloValor";
+            this.OrdenarPeloValor.Size = new System.Drawing.Size(124, 44);
+            this.OrdenarPeloValor.TabIndex = 5;
+            this.OrdenarPeloValor.Text = "OrdenarPeloValor";
+            this.OrdenarPeloValor.UseVisualStyleBackColor = true;
+            this.OrdenarPeloValor.Click += new System.EventHandler(this.OrdenarPeloValor_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(639, 440);
+            this.Controls.Add(this.OrdenarPeloValor);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -109,6 +121,7 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button OrdenarPeloValor;
 
     }
 }

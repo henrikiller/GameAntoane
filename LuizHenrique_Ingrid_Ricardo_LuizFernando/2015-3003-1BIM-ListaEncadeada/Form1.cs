@@ -53,5 +53,33 @@ namespace _2015_3003_1BIM_ListaEncadeada
             newElemento.Proximo = elemento.Proximo;
             elemento.Proximo = newElemento;
         }
+
+        private void OrdenarPeloValor_Click(object sender, EventArgs e)
+        {
+            for (int i = 1; i < lista.Count -1; i++)
+            {
+                for (int j = i +1 ; j < lista.Count; j++) 
+               {
+                   Elemento x = lista.BuscaEmLocal(i);                   
+                   Elemento y = lista.BuscaEmLocal(j);
+                   
+
+                   if (x.Valor > y.Valor)
+                   {
+                       Elemento temp = x;
+                       
+                       //x = y;
+                       //y = temp;
+
+
+                       x.Proximo = y.Proximo;
+                       x.Anterior = y.Anterior;
+
+                       y.Proximo = temp.Proximo;
+                       y.Anterior = temp.Anterior;
+                   }
+               }
+            }
+        }
     }
 }
