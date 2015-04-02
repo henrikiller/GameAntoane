@@ -1,0 +1,9 @@
+c:\users\luizhenrique\documents\visual studio 2012\Projects\Bubble Sort - Time\Bubble Sort - Time\bin\Debug\Bubble Sort - Time.exe.config
+c:\users\luizhenrique\documents\visual studio 2012\Projects\Bubble Sort - Time\Bubble Sort - Time\obj\Debug\Bubble Sort - Time.csprojResolveAssemblyReference.cache
+c:\users\luizhenrique\documents\visual studio 2012\Projects\Bubble Sort - Time\Bubble Sort - Time\obj\Debug\Bubble_Sort___Time.BubleSorteTime.resources
+c:\users\luizhenrique\documents\visual studio 2012\Projects\Bubble Sort - Time\Bubble Sort - Time\obj\Debug\Bubble_Sort___Time.Properties.Resources.resources
+c:\users\luizhenrique\documents\visual studio 2012\Projects\Bubble Sort - Time\Bubble Sort - Time\obj\Debug\Bubble Sort - Time.csproj.GenerateResource.Cache
+c:\users\luizhenrique\documents\visual studio 2012\Projects\Bubble Sort - Time\Bubble Sort - Time\bin\Debug\Bubble Sort - Time.exe
+c:\users\luizhenrique\documents\visual studio 2012\Projects\Bubble Sort - Time\Bubble Sort - Time\bin\Debug\Bubble Sort - Time.pdb
+c:\users\luizhenrique\documents\visual studio 2012\Projects\Bubble Sort - Time\Bubble Sort - Time\obj\Debug\Bubble Sort - Time.exe
+c:\users\luizhenrique\documents\visual studio 2012\Projects\Bubble Sort - Time\Bubble Sort - Time\obj\Debug\Bubble Sort - Time.pdb
